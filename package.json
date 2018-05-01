@@ -1,0 +1,30 @@
+{
+  "name": "react-animated-gradient-overlay",
+  "version": "1.0.0",
+  "description": "a simple animated gradient transition wrapper",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/danieldram/react-animated-gradient-overlay.git"
+  },
+  "keywords": [
+    "react",
+    "gradient",
+    "css",
+    "overlay"
+  ],
+  "author": "Daniel ram <danieldram@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/danieldram/react-animated-gradient-overlay/issues"
+  },
+  "homepage": "https://github.com/danieldram/react-animated-gradient-overlay#readme",
+  "dependencies": {
+    "react": "^16.3.2",
+    "shortid": "^2.2.8",
+    "styled-components": "^3.2.6"
+  }
+}
